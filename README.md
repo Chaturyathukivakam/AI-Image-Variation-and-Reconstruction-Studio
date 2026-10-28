@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C1D95,6D28D9,A855F7&height=220&section=header&text=AI%20Image%20Variation%20%26%20Reconstruction%20Studio&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Transform%2C%20Compare%20%26%20Analyze%20Images%20with%20Diffusion%20Models&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=220&section=header&text=AI%20Image%20Variation%20%26%20Reconstruction%20Studio&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Transform%2C%20Compare%20%26%20Analyze%20Images%20with%20Diffusion%20Models&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -141,5 +141,5 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C1D95,6D28D9,A855F7&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:A855F7&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </p>
